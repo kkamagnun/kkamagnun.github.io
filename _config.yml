@@ -275,5 +275,9 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true #포스트 우측 목차
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fas fa-ice-cream"
 
 date_format: "%Y-%m-%d"
