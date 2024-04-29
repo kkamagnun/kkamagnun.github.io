@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "코드디저트"
+title                    : "까막눈"
 title_separator          : "|"
 subtitle                 : "The past is a gaping hole. Your only chance is to turn around and face it." # site tagline that appears below site title in masthead
-name                     : "CodeDessert"
-description              : "코드디저트 블로그입니다."
+name                     : "kkamagnun"
+description              : "까막눈 블로그입니다."
 url                      : "https://kkamagnun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "CodeDessert"
+    shortname            : "kkamagnun"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "CodeDessert"
+  name             : "kkamagnun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요. 반갑습니다."
   location         : "South Korea"
